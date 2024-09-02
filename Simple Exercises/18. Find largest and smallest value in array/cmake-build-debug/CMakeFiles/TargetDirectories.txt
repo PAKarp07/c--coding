@@ -1,0 +1,3 @@
+E:/c++ coding/Simple Exercises/18. Find largest and smallest value in array/cmake-build-debug/CMakeFiles/18__Find_largest_and_smallest_value_in_array.dir
+E:/c++ coding/Simple Exercises/18. Find largest and smallest value in array/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/c++ coding/Simple Exercises/18. Find largest and smallest value in array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

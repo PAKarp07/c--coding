@@ -1,0 +1,3 @@
+E:/c++ coding/Simple Exercises/21. Diagonal of a Matrix/cmake-build-debug/CMakeFiles/21__Diagonal_of_a_Matrix.dir
+E:/c++ coding/Simple Exercises/21. Diagonal of a Matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/c++ coding/Simple Exercises/21. Diagonal of a Matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

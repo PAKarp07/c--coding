@@ -1,0 +1,3 @@
+E:/c++ coding/Simple Exercises/9. Check if year is a leap year/cmake-build-debug/CMakeFiles/7__Check_even_or_odd_number.dir
+E:/c++ coding/Simple Exercises/9. Check if year is a leap year/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/c++ coding/Simple Exercises/9. Check if year is a leap year/cmake-build-debug/CMakeFiles/rebuild_cache.dir

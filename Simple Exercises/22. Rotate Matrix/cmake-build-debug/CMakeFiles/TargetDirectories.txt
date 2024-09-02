@@ -1,0 +1,3 @@
+E:/c++ coding/Simple Exercises/22. Rotate Matrix/cmake-build-debug/CMakeFiles/22__Rotate_Matrix.dir
+E:/c++ coding/Simple Exercises/22. Rotate Matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/c++ coding/Simple Exercises/22. Rotate Matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
