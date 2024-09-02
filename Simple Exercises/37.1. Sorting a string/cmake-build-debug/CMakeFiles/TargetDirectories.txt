@@ -1,0 +1,3 @@
+E:/c++ coding/Simple Exercises/37.1. Sorting a string/cmake-build-debug/CMakeFiles/37_1__Sorting_a_string.dir
+E:/c++ coding/Simple Exercises/37.1. Sorting a string/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/c++ coding/Simple Exercises/37.1. Sorting a string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
