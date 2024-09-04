@@ -58,7 +58,7 @@ int main() {
     }
     catch (runtime_error &e){
 
-        cout << "Exception occured."<< endl << e.what() << endl;
+        cout << "Exception occurred."<< endl << e.what() << endl;
     }
 
 
